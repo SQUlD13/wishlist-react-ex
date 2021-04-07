@@ -54,11 +54,11 @@
         main{
             color:$clr-gray-dark;
             &>*:first-child{
-                margin-inline-start: 15px;
+                margin-inline: 15px;
+                padding-inline-start: 5px;
+                margin-block-end: 8px;
                 text-align: start;
                 border-left: 1px solid $clr-gray-dark;
-                padding-inline-start: 5px;
-                margin-block-end: 3px;
             }
             &>*:not(:first-child){
                 font-weight: bold;

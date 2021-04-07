@@ -18,12 +18,11 @@
     p{
         margin:0;
         font-size: 1em;
-        // white-space: nowrap;
-        // overflow: hidden;
-        // text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
         line-height: .975;
         text-align: start;
-        display: flex;
         flex-grow: 1;
     }
     &:hover{

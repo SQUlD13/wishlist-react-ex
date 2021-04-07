@@ -1,5 +1,6 @@
 {
   "name": "wishlist",
+  "homepage": "https://squld13.github.io/wishlist-react-ex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
