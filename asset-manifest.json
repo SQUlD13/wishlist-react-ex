@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wishlist-react-ex/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/wishlist-react-ex/static/js/main.da0e0537.chunk.js",
+    "main.js.map": "/wishlist-react-ex/static/js/main.da0e0537.chunk.js.map",
+    "runtime-main.js": "/wishlist-react-ex/static/js/runtime-main.95f82af4.js",
+    "runtime-main.js.map": "/wishlist-react-ex/static/js/runtime-main.95f82af4.js.map",
+    "static/js/2.ff6c8ed6.chunk.js": "/wishlist-react-ex/static/js/2.ff6c8ed6.chunk.js",
+    "static/js/2.ff6c8ed6.chunk.js.map": "/wishlist-react-ex/static/js/2.ff6c8ed6.chunk.js.map",
+    "static/js/3.a80ad4f0.chunk.js": "/wishlist-react-ex/static/js/3.a80ad4f0.chunk.js",
+    "static/js/3.a80ad4f0.chunk.js.map": "/wishlist-react-ex/static/js/3.a80ad4f0.chunk.js.map",
+    "index.html": "/wishlist-react-ex/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/wishlist-react-ex/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ff6c8ed6.chunk.js.LICENSE.txt": "/wishlist-react-ex/static/js/2.ff6c8ed6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wishlist-react-ex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f82af4.js",
+    "static/js/2.ff6c8ed6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.da0e0537.chunk.js"
+  ]
+}
