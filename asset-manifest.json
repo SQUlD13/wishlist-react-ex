@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wishlist-react-ex/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/wishlist-react-ex/static/js/main.da0e0537.chunk.js",
-    "main.js.map": "/wishlist-react-ex/static/js/main.da0e0537.chunk.js.map",
-    "runtime-main.js": "/wishlist-react-ex/static/js/runtime-main.95f82af4.js",
-    "runtime-main.js.map": "/wishlist-react-ex/static/js/runtime-main.95f82af4.js.map",
-    "static/js/2.ff6c8ed6.chunk.js": "/wishlist-react-ex/static/js/2.ff6c8ed6.chunk.js",
-    "static/js/2.ff6c8ed6.chunk.js.map": "/wishlist-react-ex/static/js/2.ff6c8ed6.chunk.js.map",
-    "static/js/3.a80ad4f0.chunk.js": "/wishlist-react-ex/static/js/3.a80ad4f0.chunk.js",
-    "static/js/3.a80ad4f0.chunk.js.map": "/wishlist-react-ex/static/js/3.a80ad4f0.chunk.js.map",
-    "index.html": "/wishlist-react-ex/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/wishlist-react-ex/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ff6c8ed6.chunk.js.LICENSE.txt": "/wishlist-react-ex/static/js/2.ff6c8ed6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/wishlist-react-ex/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.71d381f6.chunk.css",
+    "main.js": "/static/js/main.9f7caa3a.chunk.js",
+    "main.js.map": "/static/js/main.9f7caa3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a66b15a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a66b15a7.js.map",
+    "static/js/2.acf14fee.chunk.js": "/static/js/2.acf14fee.chunk.js",
+    "static/js/2.acf14fee.chunk.js.map": "/static/js/2.acf14fee.chunk.js.map",
+    "static/js/3.7627bda1.chunk.js": "/static/js/3.7627bda1.chunk.js",
+    "static/js/3.7627bda1.chunk.js.map": "/static/js/3.7627bda1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.71d381f6.chunk.css.map": "/static/css/main.71d381f6.chunk.css.map",
+    "static/js/2.acf14fee.chunk.js.LICENSE.txt": "/static/js/2.acf14fee.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/fa-solid-900.915a0b79.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.95f82af4.js",
-    "static/js/2.ff6c8ed6.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.da0e0537.chunk.js"
+    "static/js/runtime-main.a66b15a7.js",
+    "static/js/2.acf14fee.chunk.js",
+    "static/css/main.71d381f6.chunk.css",
+    "static/js/main.9f7caa3a.chunk.js"
   ]
 }
