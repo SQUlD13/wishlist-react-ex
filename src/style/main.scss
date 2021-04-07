@@ -1,0 +1,27 @@
+// Setup
+@import 'setup/variables';
+@import 'setup/functions';
+@import 'setup/mixins';
+@import 'setup/typography';
+
+// Basics
+@import 'basics/helpers';
+@import 'basics/layout';
+@import 'basics/base';
+@import 'basics/scrollbar';
+@import 'basics/links';
+@import 'basics/buttons';
+@import 'basics/customCheckbox';
+@import 'basics/inputs';
+@import 'basics/forms';
+
+//App
+@import 'App.scss';
+
+//Pages
+@import './pages/WishListApp.scss';
+
+//Cmps
+@import './cmps/Wishlist.scss';
+@import './cmps/BookPreview.scss';
+@import './cmps/BookDetails.scss';

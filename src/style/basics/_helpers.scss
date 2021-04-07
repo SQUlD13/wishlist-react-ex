@@ -1,0 +1,75 @@
+
+.site-block {
+    margin-bottom: rem(20px);
+}
+
+// Aspect ratios
+
+.ratio-16-9 { @include aspect-ratio(100, 56); }
+
+.ratio-square { @include aspect-ratio(100, 100); }
+
+.ratio-card { @include aspect-ratio(100, 80); }
+
+.ratio-poster { @include aspect-ratio(100, 150); }
+
+.profile-picture{
+    background: $clr-gray-dark;
+    border-radius: 15px;
+    box-shadow:$subtle-flat-shadow;
+    height: 150px; width:150px;
+    &.round{
+        border-radius: 50%;
+    }
+    &.large{
+        box-shadow:$medium-flat-shadow;
+        height:350px;width:350px;
+    }
+    &.small{
+        height:50px;width:50px;
+    }
+}
+//Basic helpers
+.clean-list{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+/* FLEX - BASE */
+.flex{
+    display:flex;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.column{
+    flex-direction: column;
+}
+/* ALIGNMET/CONTENT */
+.jcc{
+    justify-content: center;
+}
+.aic{
+    align-items: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+/* FLEX-GROW */
+.flex-1{
+    flex-grow:1;
+}
+.flex-2{
+    flex-grow:2;
+}
+.flex-4{
+    flex-grow:4;
+}
+.flex-8{
+    flex-grow:8;
+}

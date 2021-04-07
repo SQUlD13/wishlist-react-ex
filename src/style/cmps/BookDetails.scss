@@ -1,0 +1,69 @@
+.book-details-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline-end: 50px;
+    .book-details{
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        
+        height: fit-content;
+        margin-inline: 20px;
+        
+        background: $clr-gray-light;
+        color:$clr-gray-dark;
+        border-radius: 15px;
+        
+        box-shadow: $medium-flat-shadow;
+        &>*{
+            width:100%;
+            padding-inline: 15px;
+        }
+
+
+        header{
+            display: inline-flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: $clr-secondary;
+            border-radius: 15px 15px 0 0;
+            .custom-checkbox{
+                margin-inline-start: 20px;
+            }
+            border-bottom: 2px $clr-gray-dark solid;
+            h1{
+                margin-block-start: 15px;
+                margin-block-end:15px;
+                color: $clr-gray-dark;
+                line-height: 1.2;
+            }
+            margin-block-end: 15px;
+        }
+        small{
+            font-size: .5em;
+            color:$clr-black;
+            text-align: start;
+            span{
+                font-weight: bold;
+                font-style: italic;
+            }
+        }
+        main{
+            color:$clr-gray-dark;
+            &>*:first-child{
+                margin-inline-start: 15px;
+                text-align: start;
+                border-left: 1px solid $clr-gray-dark;
+                padding-inline-start: 5px;
+                margin-block-end: 3px;
+            }
+            &>*:not(:first-child){
+                font-weight: bold;
+                span{font-weight: normal;}
+            }
+        }
+    }
+}

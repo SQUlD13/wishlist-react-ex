@@ -1,0 +1,32 @@
+//CHROME
+::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+::-webkit-scrollbar-button {
+  width: 30px;
+  height: 30px;
+}
+::-webkit-scrollbar-thumb {
+  background: $clr-secondary;
+  border-radius: 9px;
+s  &:hover{
+    background: lighten($clr-secondary,10);
+  }
+  &:active{
+    background: darken($clr-secondary,5);
+  }
+}
+::-webkit-scrollbar-track {
+  background: darken($clr-gray-light,5);
+  border-radius: 9px;
+  &:hover{
+    background: lighten($clr-gray-light,10);
+  }
+  &:active{
+    background: darken($clr-gray-light,15);
+  }
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
