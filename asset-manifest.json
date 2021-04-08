@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/wishlist-react-ex/static/css/main.742d611e.chunk.css",
-    "main.js": "/wishlist-react-ex/static/js/main.9f7caa3a.chunk.js",
-    "main.js.map": "/wishlist-react-ex/static/js/main.9f7caa3a.chunk.js.map",
+    "main.css": "/wishlist-react-ex/static/css/main.6b4383c7.chunk.css",
+    "main.js": "/wishlist-react-ex/static/js/main.76996cee.chunk.js",
+    "main.js.map": "/wishlist-react-ex/static/js/main.76996cee.chunk.js.map",
     "runtime-main.js": "/wishlist-react-ex/static/js/runtime-main.b392475d.js",
     "runtime-main.js.map": "/wishlist-react-ex/static/js/runtime-main.b392475d.js.map",
     "static/js/2.acf14fee.chunk.js": "/wishlist-react-ex/static/js/2.acf14fee.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.7627bda1.chunk.js": "/wishlist-react-ex/static/js/3.7627bda1.chunk.js",
     "static/js/3.7627bda1.chunk.js.map": "/wishlist-react-ex/static/js/3.7627bda1.chunk.js.map",
     "index.html": "/wishlist-react-ex/index.html",
-    "static/css/main.742d611e.chunk.css.map": "/wishlist-react-ex/static/css/main.742d611e.chunk.css.map",
+    "static/css/main.6b4383c7.chunk.css.map": "/wishlist-react-ex/static/css/main.6b4383c7.chunk.css.map",
     "static/js/2.acf14fee.chunk.js.LICENSE.txt": "/wishlist-react-ex/static/js/2.acf14fee.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/wishlist-react-ex/static/media/fa-solid-900.915a0b79.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b392475d.js",
     "static/js/2.acf14fee.chunk.js",
-    "static/css/main.742d611e.chunk.css",
-    "static/js/main.9f7caa3a.chunk.js"
+    "static/css/main.6b4383c7.chunk.css",
+    "static/js/main.76996cee.chunk.js"
   ]
 }
